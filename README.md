@@ -15,7 +15,7 @@ I enjoy building backend and frontend applications, designing scalable systems, 
 
 ## Technologies & Tools
 
-![My Skills](https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,nodejs,fastapi,spring,mysql,postgres,mongodb,git,github,docker,linux,aws,azure,vscode,idea,pycharm,webstorm&perline=10)
+![My Skills](https://skillicons.dev/icons?i=python,java,cs,js,ts,html,css,react,nodejs,fastapi,spring,mysql,postgres,mongodb,git,github,docker,linux,aws,azure,vscode,idea,pycharm,webstorm&perline=10)
 
 ## Pronouns
 
